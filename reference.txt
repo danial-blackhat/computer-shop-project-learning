@@ -4,4 +4,7 @@
   -----------------------\Example HTML Stack Development/----------------------
 
 
-Developer by : danial-blackhat (https://github.com/danial-blackhat)
+        Developer by : danial-blackhat (https://github.com/danial-blackhat)
+
+--------------------------------------------------------------------------------
+\\-----------------------------------------------------------------------------//
