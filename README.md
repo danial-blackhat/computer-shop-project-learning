@@ -1,60 +1,33 @@
-# Computer Shop E-commerce Platform 🖥️🛒
+# Computer Shop - Simple HTML Learning Project 🖥️
 
-[![Node.js](https://img.shields.io/badge/Node.js-14.x%2B-brightgreen)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-5.0%2B-green)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-![Computer Shop Demo](https://raw.githubusercontent.com/danial-blackhat/computer-shop-project-learning/main/screenshots/dashboard.png)
-
-A full-featured e-commerce platform for computer hardware products with admin dashboard, user authentication, and payment processing.
+A basic e-commerce website for computer hardware products, built with plain HTML, CSS, and JavaScript. This project is for learning purposes only and does not include any backend, database, authentication, or payment integration.
 
 ## Features ✨
-
-### User Features
-- 🔒 User registration and authentication
-- 🛒 Product browsing with search and filtering
-- 📦 Shopping cart management
-- 💳 Stripe payment integration
-- 📊 Order history tracking
-- ✉️ Email notifications
-
-### Admin Features
-- 📦 Product management (CRUD operations)
-- 📊 Sales analytics dashboard
-- 👥 User management
-- 📦 Inventory management
-- 📝 Order processing system
+- Simple product listing interface
+- Shopping cart simulation (client-side only)
+- Responsive design for desktop and mobile
+- No user login, admin panel, or payment system
+- No database or server required
 
 ## Tech Stack 💻
+- **HTML5**
+- **CSS3**
 
-### Frontend
-- **React** (v18) with React Router
-- **Redux** for state management
-- **Axios** for API requests
-- **Bootstrap** for UI components
-- **Chart.js** for data visualization
+## How to Use 🚀
 
-### Backend
-- **Node.js** (Express.js)
-- **MongoDB** with Mongoose ODM
-- **JSON Web Tokens** for authentication
-- **Bcrypt** for password hashing
-- **Nodemailer** for email notifications
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/danial-blackhat/computer-shop-project-learning.git
+   cd computer-shop-project-learning
+   ```
+2. Open `index.html` in your web browser.
+3. Explore the product listings and cart simulation.
 
-### Payment Integration
-- **Stripe API** for payment processing
+## Notes
+- This project is for educational/demo purposes only.
+- No real transactions or data storage are performed.
+- All functionality is client-side and resets on page reload.
 
-## Installation 🛠️
+---
 
-### Prerequisites
-- Node.js v14+
-- MongoDB Atlas account or local MongoDB installation
-- Stripe account for payment processing
-
-### Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/danial-blackhat/computer-shop-project-learning.git
-cd computer-shop-project-learning
+> Created by Wan Muhammad Danial for web development learning.
